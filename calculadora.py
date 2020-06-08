@@ -1,6 +1,6 @@
 def sumar(x: int, y: int) -> int:
     """
-    Esta función suma dos números enteros
+    Esta funcion suma dos números enteros
     """
     return x + y
 
